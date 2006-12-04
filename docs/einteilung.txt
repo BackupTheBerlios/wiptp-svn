@@ -1,2 +1,2 @@
 projektplan:   pink, felix
-altsystemanalyse: loipi, moser
+altsystemanalyse: loipi (1.,2. & 3.), moser (4. & 5.)
