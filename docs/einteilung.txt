@@ -1,2 +1,11 @@
 projektplan:   pink, felix
 altsystemanalyse: loipi (1.,2. & 3.), moser (4. & 5.)
+
+Projekthandbuch:
+
+
+Bis 12.2.
+Systemspezifikation:
+
+Softwarespezifikation:
+
