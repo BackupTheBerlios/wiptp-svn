@@ -4,8 +4,26 @@ altsystemanalyse: loipi (1.,2. & 3.), moser (4. & 5.)
 Projekthandbuch:
 
 
-Bis 12.2.
+Bis 12.2.2007:
+
+
 Systemspezifikation:
+
+Einleitung 					Burgi
+Systemelementüberblick 				Pink
+Schnittstellenbeschreibung  			Loipi
+Nicht-funktionale Anforderungen 		Moser
+Schnittstellenrealisierung 			Loipi
+Verfeinerung nicht-funktionaler Anforderungen   Moser
+Anforderungsverfolgung 				Burgi
+
 
 Softwarespezifikation:
 
+Einleitung 					Pink
+Systemelementüberblick 				Pink
+Schnittstellenbeschreibung  			Loipi
+Nicht-funktionale Anforderungen 		Moser
+Schnittstellenrealisierung 			Loipi
+Verfeinerung nicht-funktionaler Anforderungen   Moser
+Anforderungsverfolgung 				Burgi
