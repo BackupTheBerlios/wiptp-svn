@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace TerminplanungWIP
+namespace TerminplanungWIP_prototyp2
 {
     static class Program
     {
