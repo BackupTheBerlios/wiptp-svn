@@ -1,6 +1,0 @@
-Räume mit benutzerinteraktionen
-	prüfen (benutzereingriff!!) ob in dem raum schon eine prüfung stattfindet 		und ob derjeweilige lehrer als beisitzender beeignet ist, sonst anderen 	raum wählen
-
-
-mehrdimensionales array???
-	idee für Plan-architektur; wird aber wahrscheinlich nicht realisierbar sein...
