@@ -36,6 +36,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Calculation\Exam.cs" />
+    <Compile Include="Calculation\Schedule.cs" />
+    <Compile Include="Calculation\Teacher.cs" />
+    <Compile Include="ExamType.cs" />
+    <Compile Include="Time.cs" />
     <Compile Include="ResultWindow.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -56,6 +61,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

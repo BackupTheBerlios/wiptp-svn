@@ -9,7 +9,7 @@ namespace TerminplanungTechnischerPrototyp.Regelwerk
         #region members
         private byte _NumberOfExamDays = 2;
         private byte _NumberOfExamsPerPupilDay = 1;
-        private DateTime[] _ExamDayEndurance = new DateTime[]{new DateTime(1,1,1,8,0,0),new DateTime(1,1,1,18,0,0)};
+        private Time[] _ExamDayEndurance = new Time[]{new Time(8,0),new Time(18,0)};
         private TimeSpan WrittenExamEnduranceD=new TimeSpan();
         private TimeSpan WrittenExamEnduranceAM=new TimeSpan();
         private TimeSpan WrittenExamEnduranceE = new TimeSpan();
@@ -62,6 +62,20 @@ namespace TerminplanungTechnischerPrototyp.Regelwerk
         }
         public  /*????*/ void RuleQuery()
         {
+        }
+        #endregion
+
+        #region Singleton
+        private RuleType(){
+        }
+
+        private static RuleType instance = null;
+
+        public static RuleType getInstance()
+        {
+            if (instance == null)
+                instance = new RuleType();
+            return instance;
         }
         #endregion
     }
