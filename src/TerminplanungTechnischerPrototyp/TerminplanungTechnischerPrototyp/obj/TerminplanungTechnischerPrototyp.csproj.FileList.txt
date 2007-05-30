@@ -1,0 +1,4 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TerminplanungTechnischerPrototyp.ResultWindow.resources
+obj\Debug\TerminplanungTechnischerPrototyp.Properties.Resources.resources
+obj\Debug\TerminplanungTechnischerPrototyp.csproj.GenerateResource.Cache
