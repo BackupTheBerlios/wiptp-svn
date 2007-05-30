@@ -39,6 +39,7 @@
     <Compile Include="Calculation\Exam.cs" />
     <Compile Include="Calculation\Schedule.cs" />
     <Compile Include="Calculation\Teacher.cs" />
+    <Compile Include="Calculation\TeacherPlan.cs" />
     <Compile Include="ExamType.cs" />
     <Compile Include="Time.cs" />
     <Compile Include="ResultWindow.cs">

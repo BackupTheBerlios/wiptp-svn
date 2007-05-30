@@ -7,8 +7,8 @@ namespace TerminplanungTechnischerPrototyp.Calculation
     class Teacher
     {
         #region members
-        private String _Name;
-        private String[] _Subjects;
+        protected String _Name;
+        protected String[] _Subjects;
         #endregion
 
         #region properties
@@ -30,5 +30,6 @@ namespace TerminplanungTechnischerPrototyp.Calculation
             _Name = name;
             _Subjects = subjects;
         }
+
     }
 }
