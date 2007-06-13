@@ -20,5 +20,9 @@ namespace TerminplanungTechnischerPrototyp.Calculation
             set { _teacherlist[index] = value; }
         }
 
+        //Rückgabewert möglicherweise Möglichkeiten um Problem zu beheben
+        //public ??? addExam(Exam examination){
+        //}
+
     }
 }
