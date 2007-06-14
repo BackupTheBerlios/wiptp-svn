@@ -21,7 +21,7 @@ namespace TerminplanungTechnischerPrototyp.Regelwerk
         #endregion
 
         #region Properties
-        public DateTime[] ExamDayEndurance
+        public Time[] ExamDayEndurance
         {
             get { return _ExamDayEndurance; }
             set { _ExamDayEndurance = value; }
@@ -41,29 +41,29 @@ namespace TerminplanungTechnischerPrototyp.Regelwerk
 	
         #endregion
 
-        #region Methods
-        public Boolean TeacherAvailable(DateTime fromDate, DateTime untilDate, string teachername)
-        {
-        }
-        public Boolean TeacherAssesorAtSubject(String teacherName, String subject)
-        {
-        }
-        public byte SubjectCorrectionEnduration(String subject)
-        {
-        }
+        //#region Methods
+        //public Boolean TeacherAvailable(DateTime fromDate, DateTime untilDate, string teachername)
+        //{
+        //}
+        //public Boolean TeacherAssesorAtSubject(String teacherName, String subject)
+        //{
+        //}
+        //public byte SubjectCorrectionEnduration(String subject)
+        //{
+        //}
 
-        public TimeSpan SubjectExamEnduration(String subject, byte year){
-        }
-        public /*????*/ void SubjectTyp(String subject)
-        {
-        }
-        public  /*????*/ void SubjectRoomTyp(String subject)
-        {
-        }
-        public  /*????*/ void RuleQuery()
-        {
-        }
-        #endregion
+        //public TimeSpan SubjectExamEnduration(String subject, byte year){
+        //}
+        //public /*????*/ void SubjectTyp(String subject)
+        //{
+        //}
+        //public  /*????*/ void SubjectRoomTyp(String subject)
+        //{
+        //}
+        //public  /*????*/ void RuleQuery()
+        //{
+        //}
+        //#endregion
 
         #region Singleton
         private RuleType(){

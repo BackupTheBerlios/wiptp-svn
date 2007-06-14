@@ -40,6 +40,8 @@
     <Compile Include="Calculation\Schedule.cs" />
     <Compile Include="Calculation\Teacher.cs" />
     <Compile Include="Calculation\TeacherPlan.cs" />
+    <Compile Include="CSV-Handling\CSVHandling.cs" />
+    <Compile Include="CSV-Handling\CSVStructure.cs" />
     <Compile Include="ExamType.cs" />
     <Compile Include="Time.cs" />
     <Compile Include="ResultWindow.cs">

@@ -24,6 +24,7 @@ namespace TerminplanungTechnischerPrototyp
         {
             _hour = hour;
             _minute = minute;
+            
         }
     }
 }

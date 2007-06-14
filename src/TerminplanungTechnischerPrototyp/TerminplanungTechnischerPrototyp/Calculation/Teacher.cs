@@ -31,5 +31,8 @@ namespace TerminplanungTechnischerPrototyp.Calculation
             _Subjects = subjects;
         }
 
+        public Teacher()
+        {
+        }
     }
 }
