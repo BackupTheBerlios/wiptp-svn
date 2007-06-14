@@ -133,7 +133,7 @@ namespace TerminplanungTechnischerPrototyp.CSV_Handling
             set { _SubjectShortName = value; }
         }
 
-        public int Surname
+        public String Surname
         {
             get { return _Surname; }
             set { _Surname = value; }
