@@ -1,0 +1,9 @@
+Agenda
+Aufgabe
+Ist-Zustand
+Soll-Zustand
+Lösung
+Schnittstellen (CSV, Access-DB)
+Regelwerk erläutern
+Berechnung nicht klar erläutern
+...
