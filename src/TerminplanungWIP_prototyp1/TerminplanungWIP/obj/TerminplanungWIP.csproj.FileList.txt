@@ -1,8 +1,0 @@
-bin\Debug\TerminplanungWIP.exe
-bin\Debug\TerminplanungWIP.pdb
-obj\Debug\ResolveAssemblyReference.cache
-obj\Debug\TerminplanungWIP.Form1.resources
-obj\Debug\TerminplanungWIP.Properties.Resources.resources
-obj\Debug\TerminplanungWIP.csproj.GenerateResource.Cache
-obj\Debug\TerminplanungWIP.exe
-obj\Debug\TerminplanungWIP.pdb
