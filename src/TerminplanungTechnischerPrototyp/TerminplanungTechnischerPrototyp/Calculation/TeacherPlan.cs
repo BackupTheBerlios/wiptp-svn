@@ -13,5 +13,10 @@ namespace TerminplanungTechnischerPrototyp.Calculation
             get { return _exams; }
             set { _exams = value; }
         }
+
+        public void AddExam(Exam newExam){
+            _exams.Add(newExam);
+        }
+
     }
 }

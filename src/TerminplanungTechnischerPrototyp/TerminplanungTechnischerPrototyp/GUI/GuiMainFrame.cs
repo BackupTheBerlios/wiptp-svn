@@ -6,11 +6,9 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 
-namespace TerminplanungTechnischerPrototyp
-{
-    public partial class ResultWindow : Form
-    {
-        public ResultWindow()
+namespace TerminplanungTechnischerPrototyp.GUI {
+    public partial class GuiMainFrame : Form {
+        public GuiMainFrame()
         {
             InitializeComponent();
         }
